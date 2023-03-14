@@ -1,0 +1,3 @@
+# https://docs.netlify.com/routing/redirects/
+# Redirects from what the browser requests to what we serve
+/                https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/
