@@ -1,1 +1,1 @@
-# openendedness.com
+# www.openendedness.com
